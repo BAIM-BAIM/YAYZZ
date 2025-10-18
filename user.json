@@ -16,5 +16,12 @@
     "password": "123",
     "role": "user",
     "expired": "2025-10-15T23:59:59.000Z"
+  },
+  {
+    "username": "123",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1763447275042,
+    "createdAt": 1760768875061
   }
 ]
