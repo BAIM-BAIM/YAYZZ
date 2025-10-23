@@ -65,5 +65,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761218864891
+  },
+  {
+    "username": "Rafz",
+    "password": "nasgor",
+    "role": "user",
+    "expiresAt": 1763903084383,
+    "createdAt": 1761224684385
   }
 ]
