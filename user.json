@@ -58,5 +58,12 @@
     "role": "user",
     "expiresAt": 1792751861613,
     "createdAt": 1761215861618
+  },
+  {
+    "username": "088",
+    "password": "088",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761218864891
   }
 ]
