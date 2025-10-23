@@ -23,5 +23,12 @@
     "role": "user",
     "expiresAt": 1763447275042,
     "createdAt": 1760768875061
+  },
+  {
+    "username": "Welzz",
+    "password": "123user",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761211820911
   }
 ]
